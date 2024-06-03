@@ -1,0 +1,69 @@
+body{
+    background-color: white;
+   }
+   main{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/004/941/847/original/cosmetic-background-for-product-branding-and-packaging-presentation-geometry-form-circle-molding-on-podium-stage-with-shadow-of-leaf-background-design-eps10-vector.jpg);
+    background-repeat: repeat;
+    background-size: auto;
+    margin: 50px;
+   
+       height: 760px;
+    }
+    .div1{
+      margin: auto;
+        width: 530px;
+        padding-top: 100px;
+       
+    }
+    .h2{
+        cursor: pointer;
+        color: white;
+    }
+    .div2{
+border: 2px solid white;
+padding: 15px;
+padding-left: 90px;
+    }
+    .input{
+border-radius: 5px;
+        width: 350px;
+        cursor: pointer;
+       
+    }
+    .button{
+        color:white;
+        text-decoration: none;
+        border: 1px solid white;
+        border-radius: 5px;
+        height: 45px;
+        width: 135px;
+       background-color: black;
+        margin-right: 10px;
+        cursor: pointer;
+    }
+    .button:hover{
+       outline: 1px solid black; 
+        transition-duration: 0.3s;
+        color:black; 
+        background-color: white;
+       
+    }
+    .div3{
+       color: white;
+        
+    }
+    .div4{
+        padding-left: 15px;
+    }
+    .label{
+        border: 1px solid white;
+        padding: 3px;
+        padding-left: 5px;
+        padding-right: 5px;
+       
+    }
+    p{
+        color: white;
+    }
+
+   
